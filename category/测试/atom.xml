@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://www.zxmacc.cf</id>
+    <title>檐牙的小窝 • Posts by &#34;测试&#34; category</title>
+    <link href="http://www.zxmacc.cf" />
+    <updated>2020-09-04T13:57:11.000Z</updated>
+    <category term="视频" />
+    <category term="动画" />
+    <category term="Hexo" />
+    <category term="设定" />
+    <category term="兽圈" />
+    <entry>
+        <id>http://www.zxmacc.cf/posts/28820</id>
+        <title>视频测试（哔哩哔哩视频嵌入）</title>
+        <link rel="alternate" href="http://www.zxmacc.cf/posts/28820"/>
+        <content type="html">&lt;p&gt;&lt;strong&gt;方法来源于 CSDN 博客，适用于静态博客网站&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;手机端会有些问题&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&amp;lt;iframe style=&amp;quot;width:98%;height: 450px;&amp;quot;&lt;br /&gt;
+src=&#39;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3BsYXllci5iaWxpYmlsaS5jb20vcGxheWVyLmh0bWw/YWlkPTY3OTA3MDMyJmFtcDtidmlkPUJWMWJKNDExYzd4NyZhbXA7Y2lkPTExNzY5ODg5NiZhbXA7cGFnZT0x&#34;&gt;http://player.bilibili.com/player.html?aid=67907032&amp;amp;bvid=BV1bJ411c7x7&amp;amp;cid=117698896&amp;amp;page=1&lt;/span&gt;&#39;&lt;br /&gt;
+fallowfullscreen=&amp;quot;allowfullscreen&amp;quot; scrolling=&amp;quot;no&amp;quot; frameborder=&amp;quot;0&amp;quot; sandbox=&amp;quot;allow-top-navigation allow-same-origin allow-forms allow-scripts&amp;quot;&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;嵌入代码分享&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;iframe style=&amp;quot;width:98%;height: 450px;&amp;quot; 
+src=&#39;http://player.bilibili.com/player.html?aid=67907032&amp;amp;bvid=BV1bJ411c7x7&amp;amp;cid=117698896&amp;amp;page=1&#39; 
+fallowfullscreen=&amp;quot;allowfullscreen&amp;quot; scrolling=&amp;quot;no&amp;quot; frameborder=&amp;quot;0&amp;quot; sandbox=&amp;quot;allow-top-navigation allow-same-origin allow-forms allow-scripts&amp;quot;&amp;gt;&amp;lt;/iframe&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;第二个可调整清晰度测试&lt;/strong&gt;&lt;br /&gt;
+ &amp;lt; iframe style=&amp;quot;width:98%;height: 450px;&amp;quot;  src=&amp;quot;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3BsYXllci5iaWxpYmlsaS5jb20vcGxheWVyLmh0bWw/YWlkPTY5NjEzODcxJmFtcDtidmlkPUJWMVRFNDExOTd4NSZhbXA7Y2lkPTEyMDY0NTg3NiZhbXA7cGFnZT0xJmFtcDthc193aWRlPTEmYW1wOyZhbXA7aGlnaF9xdWFsaXR5PTE=&#34;&gt;http://player.bilibili.com/player.html?aid=69613871&amp;amp;bvid=BV1TE41197x5&amp;amp;cid=120645876&amp;amp;page=1&amp;amp;as_wide=1&amp;amp;&amp;amp;high_quality=1&lt;/span&gt;&amp;quot; scrolling=&amp;quot;no&amp;quot; border=&amp;quot;0&amp;quot; frameborder=&amp;quot;no&amp;quot; framespacing=&amp;quot;0&amp;quot; allowfullscreen=&amp;quot;true&amp;quot;&amp;gt; &amp;lt;/iframe&amp;gt;&lt;br /&gt;
+&lt;em&gt;&lt;strong&gt; 嵌入代码分享&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;iframe style=&amp;quot;width:98%;height: 450px;&amp;quot;  src=&amp;quot;http://player.bilibili.com/player.html?aid=69613871&amp;amp;bvid=BV1TE41197x5&amp;amp;cid=120645876&amp;amp;page=1&amp;amp;as_wide=1&amp;amp;&amp;amp;high_quality=1&amp;quot; scrolling=&amp;quot;no&amp;quot; border=&amp;quot;0&amp;quot; frameborder=&amp;quot;no&amp;quot; framespacing=&amp;quot;0&amp;quot; allowfullscreen=&amp;quot;true&amp;quot;&amp;gt; &amp;lt;/iframe&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+</content>
+        <category term="视频" />
+        <category term="Hexo" />
+        <updated>2020-09-04T13:57:11.000Z</updated>
+    </entry>
+</feed>

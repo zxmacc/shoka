@@ -1,0 +1,19 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "檐牙的小窝 • All posts by \"hexo\" tag",
+    "description": "梦想是当一名画师",
+    "home_page_url": "http://www.zxmacc.cf",
+    "items": [
+        {
+            "id": "http://www.zxmacc.cf/posts/28820",
+            "url": "http://www.zxmacc.cf/posts/28820",
+            "title": "视频测试（哔哩哔哩视频嵌入）",
+            "date_published": "2020-09-04T13:57:11.000Z",
+            "content_html": "<p><strong>方法来源于 CSDN 博客，适用于静态博客网站</strong><br />\n<em>手机端会有些问题</em></p>\n<p>&lt;iframe style=&quot;width:98%;height: 450px;&quot;<br />\nsrc='<span class=\"exturl\" data-url=\"aHR0cDovL3BsYXllci5iaWxpYmlsaS5jb20vcGxheWVyLmh0bWw/YWlkPTY3OTA3MDMyJmFtcDtidmlkPUJWMWJKNDExYzd4NyZhbXA7Y2lkPTExNzY5ODg5NiZhbXA7cGFnZT0x\">http://player.bilibili.com/player.html?aid=67907032&amp;bvid=BV1bJ411c7x7&amp;cid=117698896&amp;page=1</span>'<br />\nfallowfullscreen=&quot;allowfullscreen&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; sandbox=&quot;allow-top-navigation allow-same-origin allow-forms allow-scripts&quot;&gt;&lt;/iframe&gt;</p>\n<p><em><strong>嵌入代码分享</strong></em></p>\n<pre><code>&lt;iframe style=&quot;width:98%;height: 450px;&quot; \nsrc='http://player.bilibili.com/player.html?aid=67907032&amp;bvid=BV1bJ411c7x7&amp;cid=117698896&amp;page=1' \nfallowfullscreen=&quot;allowfullscreen&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; sandbox=&quot;allow-top-navigation allow-same-origin allow-forms allow-scripts&quot;&gt;&lt;/iframe&gt;\n</code></pre>\n<p><strong>第二个可调整清晰度测试</strong><br />\n &lt; iframe style=&quot;width:98%;height: 450px;&quot;  src=&quot;<span class=\"exturl\" data-url=\"aHR0cDovL3BsYXllci5iaWxpYmlsaS5jb20vcGxheWVyLmh0bWw/YWlkPTY5NjEzODcxJmFtcDtidmlkPUJWMVRFNDExOTd4NSZhbXA7Y2lkPTEyMDY0NTg3NiZhbXA7cGFnZT0xJmFtcDthc193aWRlPTEmYW1wOyZhbXA7aGlnaF9xdWFsaXR5PTE=\">http://player.bilibili.com/player.html?aid=69613871&amp;bvid=BV1TE41197x5&amp;cid=120645876&amp;page=1&amp;as_wide=1&amp;&amp;high_quality=1</span>&quot; scrolling=&quot;no&quot; border=&quot;0&quot; frameborder=&quot;no&quot; framespacing=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt; &lt;/iframe&gt;<br />\n<em><strong> 嵌入代码分享</strong></em></p>\n<pre><code>&lt;iframe style=&quot;width:98%;height: 450px;&quot;  src=&quot;http://player.bilibili.com/player.html?aid=69613871&amp;bvid=BV1TE41197x5&amp;cid=120645876&amp;page=1&amp;as_wide=1&amp;&amp;high_quality=1&quot; scrolling=&quot;no&quot; border=&quot;0&quot; frameborder=&quot;no&quot; framespacing=&quot;0&quot; allowfullscreen=&quot;true&quot;&gt; &lt;/iframe&gt;\n</code></pre>\n",
+            "tags": [
+                "视频",
+                "Hexo"
+            ]
+        }
+    ]
+}
